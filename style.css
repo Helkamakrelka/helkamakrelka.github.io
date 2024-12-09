@@ -1,0 +1,16 @@
+p
+
+{
+     color: red;
+     font-weight:bold;
+     font-family: "Edu AU VIC WA NT Pre", cursive;
+     font-size: larger;
+}
+body{
+background-color: beige;
+}
+img{
+    width:500px;
+    border: 10px;
+    border-style: double;
+}
